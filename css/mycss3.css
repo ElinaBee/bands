@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(152, 153, 152);
+}
+
+p{
+    font-size: 30px;
+    color: #303532;
+}
+
+.box{
+    border: solid black;
+    border-width: 5px;
+    width: 500px;
+    margin: 50px;
+    padding: 50px;
+}

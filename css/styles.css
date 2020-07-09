@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(231, 210, 150);
+}
+
+h1{
+    font-size: 60px;
+    color: green;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    text-align: center;
+    padding: 15px;
+}
+
+p{
+    font-size: 20px;
+    color: teal;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.nav{
+    background-color: seagreen;
+}
+
+.nav a{
+    display: block;
+    background-color: slategrey;
+    color: snow;
+}
+
+.nav a:hover{
+    background-color: rgb(21, 31, 7);
+    color: snow;
+}

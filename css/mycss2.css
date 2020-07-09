@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(165, 230, 134);
+}
+
+p{
+    font-size: 30px;
+    color: #077a3b;
+}
+
+.box{
+    border: solid rgb(2, 56, 18);
+    border-width: 5px;
+    width: 500px;
+    margin: 50px;
+    padding: 50px;
+}
